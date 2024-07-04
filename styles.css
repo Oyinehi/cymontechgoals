@@ -26,11 +26,11 @@ h1, h2 {
     text-align: left;        
 }
 
-#profile img {
+/*#profile img {
     max-width: 100px;
     height: auto;
     border-radius: 50%;
-}
+}*/
 
 /* Goals section */
 #goals {
