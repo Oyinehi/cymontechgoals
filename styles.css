@@ -23,7 +23,8 @@ h1, h2 {
 
 /* Profile section */
 #profile {
-    text-align: left;        
+    text-align: left; 
+    border-radius: 50%;
 }
 
 /* Goals section */
