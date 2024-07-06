@@ -26,13 +26,7 @@ h1, h2 {
 
 /* Profile section */
 #profile {
-    text-align: left;  
-          
-}
-
-#profile img{
-    border-radius: 50%;
-    max-height: 100px;
+    text-align: left;        
 }
 
 /* Goals section */
