@@ -12,8 +12,9 @@ body {
 header {
     background-color: #0b4905;
     color: white;
-    text-align: left;
+    text-align: center;
     padding: 1em 0;
+    max-height:120px;
 }
 
 h1, h2 {
